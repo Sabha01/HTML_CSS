@@ -1,2 +1,2 @@
-#Python development with django
+
 
